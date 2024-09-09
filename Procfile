@@ -1,0 +1,1 @@
+web: odoo --config=/app/odoo.conf
